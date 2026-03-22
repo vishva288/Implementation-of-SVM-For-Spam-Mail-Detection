@@ -108,7 +108,12 @@ for msg in test_messages:
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+<img width="764" height="256" alt="Screenshot 2026-03-22 122132" src="https://github.com/user-attachments/assets/3f0a58cb-729a-4537-917e-c93f1005c445" />
+<img width="446" height="143" alt="Screenshot 2026-03-22 122138" src="https://github.com/user-attachments/assets/b3c3c1bd-3839-4369-9904-11f2233a5427" />
+<img width="800" height="244" alt="Screenshot 2026-03-22 122157" src="https://github.com/user-attachments/assets/b4d69bad-865a-4dee-99e6-57470398f8fe" />
+<img width="984" height="210" alt="Screenshot 2026-03-22 122212" src="https://github.com/user-attachments/assets/d3479c5c-1070-4f0a-aacd-dbdb3bf7c2e5" />
+
+
 
 
 ## Result:
